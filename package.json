@@ -1,0 +1,14 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Testing Electron",
+  "main": "main.js",
+  "author": "hasnainalimj",
+  "license": "MIT",
+    "scripts": {
+      "start": "electron ."
+    },
+  "devDependencies": {
+    "electron": "^15.1.0"
+  }
+}
